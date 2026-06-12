@@ -120,11 +120,12 @@ This project is a **learning initiative** where we explore:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
-**Special thanks to:**
-- ✨ **GitHub Copilot** - For assistance with code structure, documentation, and best practices throughout this project
-- The open-source community for inspiration and resources
+| Contributor | Role |
+|-------------|------|
+| zypherpython | Project Lead |
+| Copilot | Documentation & Code Structure |
 
 ---
 
